@@ -1,5 +1,3 @@
-# hello-world
-
 ---
 title: "Hello world"
 author: "Domagoj Buljat"
